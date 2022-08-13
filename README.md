@@ -1,4 +1,4 @@
 Estados de los archivos
 U: Untracked files (git todavia no tiene registo)
 M: modified (archivo modificado)
-A: Added (Agregado)
+A: Added (Agregado git add . o git add archivo.extension)
